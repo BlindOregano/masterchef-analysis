@@ -1,0 +1,19 @@
+1 WINNER - Season Winner                                               | 'transparent-WINNER' 'transparent'    
+2 RUNNER_UP(S) - Season Runner(s) up                                   | 'silver-RUNNER-UP' '#C0C0C0' '#CCCCCC' [BZL 1-2]
+3 WIN_INDIVIDUAL - Won Individual Challenge/PT                         | 'limegreen-WIN' 'pink-PT' '#32CD32' 'pink-WPT' 'green-WPT'
+4 HIGH_INDIVIDUAL - 2nd or 3rd best in Individual Challenge            | 'cornflowerblue-HIGH' '#6495ED' '6495ED'
+5 IN_INDIVIDUAL - Neither HIGH nor LOW in Individual Challenge/PT      | 'white-IN' 'mistyrose-PT' '#FFE4E1'
+6 LOW_INDIVIDUAL - 2nd or 3rd worst in Individual Challenge/PT         | 'orange-LOW' '#FFC0CB' '#FFA500'
+7 WIN_TEAM - Won in Team Challenge                                     | '#959FFD-WIN' '#959FFD'
+8 HIGH_TEAM - 2nd best in Team Challenge                               | 'skyblue-HIGH'
+9 IN_TEAM - Neither HIGH nor LOW in Team Challenge                     | 'palegreen-IN'
+10 LOW_TEAM - 2nd or 3rd worst in Team Challenge                       | 'purple-LOW' '#FF35F3'
+11 ELIM - Eliminated from competition                                  | 'crimson-ELIM' '#DC143C'
+12 IMM - Immune from Elimination                                       | 'yellow-IMM' '#FFDB58-IMM' 'mistyrose-NPT' '#FFFF00'
+13 IMM_2 - Chosen by Immunity winner to also be Immune                 | 'khaki-IMM'
+14 WDR - Withdrew from competition                                     | 'tan-WDR' '#D2B48C'
+15 DNP - Did not participate in challenge                              | 'red-DNP' '#CCCCCC' [BZL 2-9]
+16 RET - Returned from Elimination                                     | 'honeydew-RET' '#F0FFF0'
+
+
+
